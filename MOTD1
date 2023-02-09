@@ -3,7 +3,6 @@ Hello Capuchins! I've been working on this update for a while now so here it is!
 -mines has 3 monsters
 -finger movements(NOT NETWORKED YET)
 -4 monsters in LVL2
--new sandbox gamemode
 -more cosmetics
 -buyable cosmetics
 -reverted back to old music
@@ -12,3 +11,4 @@ Hello Capuchins! I've been working on this update for a while now so here it is!
 -new networking system (you can leave and re-join publics and you don't have to click enter twice)
 -fixed out of the map in Snowland
 -when you get killed a ragdoll spawns
+-trees have leaves now
